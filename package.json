@@ -26,7 +26,7 @@
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "js-cookie": "^3.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "next": "12.1.6",
     "next-connect": "^0.12.2",
     "next-sanity-image": "^3.2.1",
